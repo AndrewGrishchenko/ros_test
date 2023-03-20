@@ -1,0 +1,2 @@
+mic_pub
+-DCATKIN_DEVEL_PREFIX=/home/pi/ros_test/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ros_test/install -G Unix Makefiles
